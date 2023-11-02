@@ -1,6 +1,6 @@
 # Bandori Cards Gallery
 
-A folder containing (yet to be) all Bandori cards' art
+A folder containing (yet to be) all of Bang Dream's cards' art
 
 ## STILL W.I.P.
 I'll eventually do all of them, and will keep updating once I've caught up, but for now I'm prioritizing Popipa, Roselia, and HHW
